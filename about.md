@@ -35,7 +35,8 @@ The course introduces basic concepts and technologies of cybersecurity, with a f
 * The Final Exam  30%
 * Bonus Points:
   * Positive/negative course participation ±5%
-  * Valuable security findings 10%
+
+
 
 <!-- * 1 research project 20%
    * The research pre-proposal
