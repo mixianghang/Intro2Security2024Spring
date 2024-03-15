@@ -14,4 +14,5 @@ Mar 12
   : [Slides](#) 
 : [Reading-1](https://arxiv.org/abs/2005.12273) [Reading-2](https://eprint.iacr.org/2023/485)
 
+May 15
 : **HW 1 is released**{: .label .label-yellow}
